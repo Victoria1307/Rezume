@@ -6,12 +6,13 @@
 </head>
 <body>
  <div class="gallery">
-  <a target="_blank" href="https://github.com/Victoria1307/Rezume/raw/master/image001.png">
+  <a target="_blank">
     <img src="https://github.com/Victoria1307/Rezume/raw/master/image001.png" alt="Cinque Terre">
   </a>
   <div class="desc">Андрощук Виктория Сергеевна</div>
  </div>	
    <div class="resume">
+      </p>
       <p>
          Женщина, 42 года, родилась 
          <text>10</text>
