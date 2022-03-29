@@ -7,7 +7,7 @@
 <body>
  <div class="gallery">
   <a target="_blank">
-    <img src="https://github.com/Victoria1307/Rezume/raw/master/image001.png" alt="Cinque Terre">
+    <img src="image001.png">
   </a>
   <div class="desc">Андрощук Виктория Сергеевна</div>
  </div>	
