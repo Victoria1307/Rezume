@@ -835,7 +835,7 @@ punctuation'>
    height:88.8pt'>
    <v:imagedata src="https://github.com/Victoria1307/Rezume/raw/master/image001.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><img width=95 height=118
-  src="htmlFromWord_01.files/image002.jpg" v:shapes="_x0000_i1027"><![endif]><o:p></o:p></span></p>
+  src="https://github.com/Victoria1307/Rezume/raw/master/image001.png" v:shapes="_x0000_i1027"><![endif]><o:p></o:p></span></p>
   </td>
   <td width=523 colspan=2 valign=top style='width:391.9pt;padding:10.0pt 0cm 0cm 0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;mso-pagination:
