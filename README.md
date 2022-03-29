@@ -833,7 +833,7 @@ punctuation'>
    <o:lock v:ext="edit" aspectratio="t"/>
   </v:shapetype><v:shape id="_x0000_i1027" type="#_x0000_t75" style='width:71.4pt;
    height:88.8pt'>
-   <v:imagedata src="image001.png" o:title=""/>
+   <v:imagedata src="https://github.com/Victoria1307/Rezume/raw/master/image001.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><img width=95 height=118
   src="htmlFromWord_01.files/image002.jpg" v:shapes="_x0000_i1027"><![endif]><o:p></o:p></span></p>
   </td>
